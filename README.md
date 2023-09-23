@@ -1,5 +1,6 @@
 # SQL_Case_Study1
 Danny's Diner SQL Case Study 🍣🍛🍜
+![1](https://github.com/fatihhsahin1/SQL_Case_Study1/assets/76142095/69238113-4685-45c8-aba7-92f930b2c6e3)
 
 Welcome to my solutions for the Danny's Diner SQL Case Study as part of the #8weekSQLchallenge by Danny Ma.
 
