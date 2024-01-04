@@ -12,7 +12,8 @@ Challenge Details 🎯
 
 The case study consists of 10 main questions and 1 bonus one, aimed at providing insights into customers' visiting patterns, spending habits, favorite menu items, and the potential benefits of a customer loyalty program.
 
-Link to the case study: 8-Week SQL Challenge - Case Study 1
+Link to the case study: [8-Week SQL Challenge - Case Study 1](https://8weeksqlchallenge.com/case-study-1/)
+
 
 What's Inside 📦
 
