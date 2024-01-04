@@ -17,8 +17,9 @@ Link to the case study: [8-Week SQL Challenge - Case Study 1](https://8weeksqlch
 
 What's Inside 📦
 
-queries.sql: All the SQL queries used to solve the questions.
-report.pdf: A detailed report of the case study, including insights and conclusions.
+- SQL_Case_Study.sql: All the SQL queries used to solve the questions.
+  
+- Dannys_DinerCase_Study.pdf: A detailed report of the case study, including insights and conclusions.
 
 How to Use 🚀
 
